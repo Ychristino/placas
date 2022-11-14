@@ -1,7 +1,7 @@
 import cv2
 import pytesseract
 import numpy as np
-from __Image_Filter import Image_Filter
+from filter.__Image_Filter import Image_Filter
 
 class OCR:
 	def __init__(self, file_path=None, image=None):

@@ -1,7 +1,7 @@
-from Plate import Plate
-from Extract_Data import Extract_Data
-from Coordinates import Coordinates
-from Ocr import OCR
+from core.Plate import Plate
+from core.Ocr import OCR
+from utils.Extract_Data import Extract_Data
+from utils.Coordinates import Coordinates
 class Main:
 
 
