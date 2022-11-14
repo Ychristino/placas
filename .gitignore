@@ -1,0 +1,14 @@
+dataset/
+data_labeling/
+*.bat
+TensorFlow/scripts/old
+TensorFlow/virtual_env/
+TensorFlow/models/
+TensorFlow/protoc/
+TensorFlow/workspace/data
+TensorFlow/workspace/pre_trained_models
+TensorFlow/workspace/*.py
+TensorFlow/workspace/models/efficientdet_d0_v1
+TensorFlow/workspace/models/export
+TensorFlow/workspace/models/result
+
